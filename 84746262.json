@@ -1,0 +1,10 @@
+{
+  "title": "Diamond Bracelet",
+  "specs": "A luxurious tennis bracelet with sparkling diamonds set in platinum.",
+  "images": ["https://raw.githubusercontent.com/tj-db/l/main/7.jpg"],
+  "price": 2999.99,
+  "seller": "Your Seller Name",
+  "mail": "seller@example.com",
+  "tel": "+1234567890",
+  "tags": ["jewelry", "diamond", "bracelet"]
+}
