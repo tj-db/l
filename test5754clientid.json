@@ -1,0 +1,11 @@
+{
+  "title": "Pearl Set",
+  "specs": "Classic pearl necklace and earring set, perfect for any occasion.",
+  "images": ["https://raw.githubusercontent.com/tj-db/l/main/9.jpg"],
+  "price": 599.99,
+  "seller": "Your Seller Name",
+  "mail": "seller@example.com",
+  "tel": "+1234567890",
+  "tags": ["jewelry", "pearl", "set"],
+  "clientid": "unique-client-id-12345"
+}
